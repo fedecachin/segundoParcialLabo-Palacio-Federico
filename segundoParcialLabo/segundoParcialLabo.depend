@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1625668538 source:c:\users\pfede\desktop\programas\segundoparciallabo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625668538 c:\users\pfede\desktop\programas\segundoparciallabo\linkedlist.h
+
+1625669199 source:c:\users\pfede\desktop\programas\segundoparciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parse.h"
+	"pais.h"
+
+1625662949 source:c:\users\pfede\desktop\programas\segundoparciallabo\parse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parse.h"
+	"pais.h"
+	"LinkedList.h"
+
+1625663189 c:\users\pfede\desktop\programas\segundoparciallabo\parse.h
+	"LinkedList.h"
+
+1625669199 c:\users\pfede\desktop\programas\segundoparciallabo\pais.h
+	"LinkedList.h"
+
+1625669199 source:c:\users\pfede\desktop\programas\segundoparciallabo\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pais.h"
+
